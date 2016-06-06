@@ -1,3 +1,8 @@
+
+*.node
+.node_modules
+.node_libraries
+
 # Logs
 logs
 *.log

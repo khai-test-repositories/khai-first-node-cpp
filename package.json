@@ -1,0 +1,19 @@
+{
+  "name": "khai-first-node-cpp",
+  "version": "0.0.0",
+  "description": "My helloworld C++ addon for NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khai-test-repositories/khai-first-node-cpp.git"
+  },
+  "keywords": [
+    "helloworld"
+  ],
+  "author": "Hoàng Văn Khải <hvksmr1996@gmail.com>",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/khai-test-repositories/khai-first-node-cpp/issues"
+  },
+  "homepage": "https://github.com/khai-test-repositories/khai-first-node-cpp#readme"
+}
