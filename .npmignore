@@ -2,3 +2,10 @@
 *.cc
 *.cpp
 .git*
+*.gyp
+/build
+Makefile
+binding.*
+*.gypi
+*.mk
+*.Makefile
