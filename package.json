@@ -1,6 +1,6 @@
 {
   "name": "khai-first-node-cpp",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "My helloworld C++ addon for NodeJS",
   "main": "index.js",
   "repository": {
