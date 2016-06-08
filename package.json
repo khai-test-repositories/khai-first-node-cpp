@@ -16,8 +16,12 @@
     "url": "https://github.com/khai-test-repositories/khai-first-node-cpp/issues"
   },
   "homepage": "https://github.com/khai-test-repositories/khai-first-node-cpp#readme",
-  "dependencies": {
-    "just-try": "^2.0.1"
+  "devDependencies": {
+      "node-gyp": "^3.3.1"
+  },
+  "scripts": {
+      "configure": "node-gyp configure",
+      "build": "node-gyp build"
   },
   "engines": {
     "node": ">= 6.0.0"

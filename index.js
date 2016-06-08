@@ -1,5 +1,2 @@
 
-module.exports = require('just-try')(
-  () => require('./build/Release/addon.node'),
-  () => require('./build/Debug/addon.node')
-).helloworld;
+module.exports = require('./build/Release/addon.node').helloworld;
